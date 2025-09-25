@@ -177,4 +177,5 @@ contract Metanetic is IERC20 {
       _marketingfees(lpaddress, _value);
   }
   
+
 }
